@@ -1,5 +1,5 @@
 # ML-PROJECT
-Applying 2 ML algorithms to NBA Box Score dataset for Intro to ML Course project.
+Applying 2 ML algorithms to NBA Box Score dataset.
 
 2012-18 NBA Official Box Score dataset used from Kaggle.
 
